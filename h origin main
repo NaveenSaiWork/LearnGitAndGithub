@@ -1,0 +1,49 @@
+[33mcommit 090b65788acebb17ed935e793a4d6acae4e54302[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: 42da0c6 5cd09f0
+Author: NaveenSaiCremsi <156770106+NaveenSaiWork@users.noreply.github.com>
+Date:   Sat Mar 16 19:41:57 2024 +0530
+
+    Merge branch 'main' of https://github.com/NaveenSaiWork/LearnGitAndGithub
+
+[33mcommit 42da0c69df189768ce1de5a26c9469a2ce2a3206[m
+Author: NaveenSaiCremsi <156770106+NaveenSaiWork@users.noreply.github.com>
+Date:   Sat Mar 16 19:34:24 2024 +0530
+
+    hey guys
+
+[33mcommit 5cd09f0e40dcad18c76be431a8a42b5e53316b8b[m
+Author: NaveenSaiCremsi <156770106+NaveenSaiWork@users.noreply.github.com>
+Date:   Sat Mar 16 19:29:49 2024 +0530
+
+    added a comment in the index.html
+
+[33mcommit c0ffbc0e85212d9afd52284f38996b11c618392f[m
+Merge: 898a139 102415f
+Author: NaveenSaiCremsi <156770106+NaveenSaiWork@users.noreply.github.com>
+Date:   Sat Mar 16 18:46:28 2024 +0530
+
+    Merge pull request #1 from NaveenSaiWork/addstyles.css
+    
+    added styles.css
+
+[33mcommit 102415fa408d41451716c7d98e1437c33cf14c2d[m[33m ([m[1;31morigin/addstyles.css[m[33m)[m
+Author: NaveenSaiCremsi <156770106+NaveenSaiWork@users.noreply.github.com>
+Date:   Sat Mar 16 18:44:03 2024 +0530
+
+    added styles.css
+
+[33mcommit 898a139c187e3b9e67207b4a3ca47d1afe040115[m[33m ([m[1;31morigin/#addIndex.html[m[33m)[m
+Author: NaveenSaiCremsi <156770106+NaveenSaiWork@users.noreply.github.com>
+Date:   Sat Mar 16 17:48:51 2024 +0530
+
+    Initial commit in the branch of addindex.html
+    
+    add and commited in that branch
+
+[33mcommit fafa6a5451de220ac337c5362c50a4c404be3b4d[m
+Author: NaveenSaiCremsi <156770106+NaveenSaiWork@users.noreply.github.com>
+Date:   Sat Mar 16 17:42:53 2024 +0530
+
+    started initial step to learn version control
+    
+    Inorder to be a good software engineer
